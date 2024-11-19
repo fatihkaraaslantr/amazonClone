@@ -21,3 +21,5 @@ Kategori ve Menü Düzeni: E-ticaret sitelerinin ihtiyaç duyduğu sezgisel navi
 Temiz Renk Paleti: Amazon’un sade ve profesyonel tarzını yansıtan renkler seçilmiştir.
 
 <h1>Ekran Görüntüsü</h1>
+
+![](./assets/project.gif)
